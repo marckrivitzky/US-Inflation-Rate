@@ -120,7 +120,7 @@ export default class MainPage extends React.Component{
 								<button className="btn btn-success" id="MLK-button" onClick={()=>{this.convertMLK();}}>1963</button>
 								<button className="btn btn-success" id="roe-v-wade-button" onClick={()=>{this.convertRoeVWade();}}>1973</button>
 								<button className="btn btn-success" id="grenada-button" onClick={()=>{this.convertGrenada();}}>1983</button>
-								<button className="btn btn-success" id="gulf-war-button" onClick={()=>{this.convertwwIIStart();}}>1990</button> 
+								<button className="btn btn-success" id="gulf-war-button" onClick={()=>{this.convertGulfWar();}}>1990</button> 
 							</Card>
 
 						</div>
