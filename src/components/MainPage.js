@@ -11,7 +11,7 @@ export default class MainPage extends React.Component{
 			this.state = {
 				amount: null,
 				converted: null,
-				when: 'Year:',
+				when: 'Year chosen:',
 				slaveTrade: 22.31,
 				warOf: 21.14,
 				andrewJackson: 29.59,
