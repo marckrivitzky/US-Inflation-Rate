@@ -3,7 +3,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Form, Card, Row, Col, InputGroup} from 'react-bootstrap'
 import {HiArrowSmRight} from 'react-icons/hi'
-import timeLine from "../assets/myTimeline1.png"
+import timeLine from "../assets/inflation3.png"
 
 export default class MainPage extends React.Component{
 	constructor(props){
@@ -65,7 +65,7 @@ export default class MainPage extends React.Component{
 			<div className="container">
 				<div className="container-position">
 				
-					<Card style={{width: "fit-screen", position: 'relative', marginLeft: 'auto', marginRight: 'auto', backgroundColor: 'rgb(6, 64, 27)', border:'7px solid rgb(6, 64, 27)'}}>
+					<Card style={{width: "max-content", position: 'relative', marginLeft: 'auto', marginRight: 'auto', backgroundColor: 'rgb(6, 64, 27)', border:'7px solid rgb(6, 64, 27)'}}>
 						<h1 className="title-labels">US Inflation Calculator</h1>
 						<div className="form">
 							<br/>
@@ -99,8 +99,8 @@ export default class MainPage extends React.Component{
 						<br/>	
 						<div className="home-page-body">
 						
-							<Card style={{width: '55rem', position: 'relative', marginLeft: 'auto', marginRight: 'auto', border: '7px solid white'}}>
-								<img src={timeLine} width={'max-content'} alt='map' id="my-timeline" />
+							<Card style={{width: 'fit-content', position: 'relative', marginLeft: 'auto', marginRight: 'auto', border: '7px solid white'}}>
+								<img src={timeLine} width={'100%'} alt='map' id="my-timeline" />
 								<button className="btn btn-success" id="slave-trade-button" onClick={()=>{this.convertSlaveTrade();}}>1808</button>
 								<button className="btn btn-success" id="war-of-button" onClick={()=>{this.convertWarOf();}}>1812</button>
 								 <button className="btn btn-success" id="jackson-button" onClick={()=>{this.convertAndrewJackson();}}>1828</button>

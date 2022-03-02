@@ -27,7 +27,6 @@ color: white;
 position: relative;
 margin-left: auto;
 margin-right: auto;
-width: 100%;
 }
 
 #my-timeline{
@@ -44,161 +43,163 @@ width: 100%;
 #slave-trade-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
-left: 9.25%;
-width: 55px;
+bottom: 35.25%;
+left: 8.5%;
+width: fit-content;
 }
+
+
 
 #jackson-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
-left: 16.75%;
-width: 55px;
+bottom: 35.25%;
+left: 16.5%;
+width: fit-content;
 }
 
 #migration-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 24%;
-width: 55px;
+width: fit-content;
 }
 
 #lincoln-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 31.75%;
-width: 55px;
+width: fit-content;
 
 }
 
 #statue-of-liberty-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 39.25%;
-width: 55px;
+width: fit-content;
 }
 
 #roosevelt-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 47%;
-width: 55px;
+width: fit-content;
 }
 
 #stock-market-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 54.5%;
-width: 55px;
+width: fit-content;
 }
 
 #wwII-end-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 62%;
-width: 55px;
+width: fit-content;
 }
 
 #MLK-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 69.5%;
-width: 55px;
+width: fit-content;
 }
 
 #grenada-button{
 position: absolute;
 font-size: smaller;
-bottom: 33.25%;
+bottom: 35.25%;
 left: 77%;
-width: 55px;
+width: fit-content;
 }
 /* _________________________________________ */
 
 #war-of-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 13%;
-width: 55px;
+width: fit-content;
 }
 
 #darwin-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 20.5%;
-width: 55px;
+width: fit-content;
 }
 
 #kan-neb-act-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 28%;
-width: 55px;
+width: fit-content;
 }
 
 #hayes-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 35.5%;
-width: 55px;
+width: fit-content;
 }
 
 #olympics-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 43%;
-width: 55px;
+width: fit-content;
 }
 
 #flu-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 50.5%;
-width: 55px;
+width: fit-content;
 }
 
 #wwII-start-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 58%;
-width: 55px;
+width: fit-content;
 }
 
 #korean-war-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 65.5%;
-width: 55px;
+width: fit-content;
 }
 
 #roe-v-wade-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 73%;
-width: 55px;
+width: fit-content;
 }
 
 #gulf-war-button{
 position: absolute;
 font-size: smaller;
-bottom: 59%;
+bottom: 60%;
 left: 80.5%;
-width: 55px;
+width: fit-content;
 }
